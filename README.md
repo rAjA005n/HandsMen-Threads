@@ -1,11 +1,4 @@
 Salesforce capstone project
-### **Project Title:**
-
-**HandsMen Threads – Salesforce CRM & Automation Enhancement**
-
-## **1. Abstract**
-
-HandsMen Threads, a forward-thinking player in the fashion industry, launched a Salesforce CRM project aimed at streamlining business data management and enhancing customer engagement. This initiative focused on building a scalable data model, implementing intelligent automation, and improving user experience through intuitive interfaces and consistent data integrity.
 
 ## **2. Introduction**
 
